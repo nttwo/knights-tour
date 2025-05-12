@@ -9,9 +9,10 @@ The Knight's Tour is a classic chess problem in which the knight must visit ever
 ## Installation
 
 1. Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 2. Running the App
-
+```bash
 python knights_tour.py
+````
