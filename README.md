@@ -1,6 +1,6 @@
 # Knight's Tour Visualization
 
-This project visualizes the Knight's Tour on a chessboard using Warnsdorff’s Rule, animated with a graphical interface built using Pygame.
+This project visualizes the Knight's Tour on a chessboard using Warnsdorff’s Algorithm, animated with a graphical interface built using Pygame.
 
 ##  What is the Knight's Tour?
 
