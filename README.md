@@ -8,7 +8,10 @@ The Knight's Tour is a classic chess problem in which the knight must visit ever
 
 ## Installation
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/knights-tour-gui.git
-   cd knights-tour-gui
+1. Install dependencies:
+
+pip install -r requirements.txt
+
+2. Running the App
+
+python knights_tour.py
