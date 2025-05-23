@@ -13,7 +13,7 @@ The Knight's Tour is a classic chess problem in which the knight must visit ever
 ```bash
 pip install -r requirements.txt
 ```
-2. Running the App
+2. Execute
 ```bash
 python knights_tour.py
 ````
